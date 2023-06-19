@@ -1,2 +1,2 @@
 # hackcpu
-Implementing a 12-bit ALU for signed and unsigned Integers as a part of a course project
+Implementing an ALU for 8-bit signed and unsigned Integers and 12-bit floating point numbers as a part of a course project
